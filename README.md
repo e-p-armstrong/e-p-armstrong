@@ -5,6 +5,6 @@ Need help making your API calls cheaper and more consistent? I've been prompt en
 
 I made the data generation tool, Augmentoolkit! It's since received updates to use APIs and the Aphrodite engine. I also made Augmental and MythoMakise a while ago. One of them reached #13 on the Ayumi LLM leaderboard at some point!
 
-Working @ Leanpub
+Working @ Leanpub part-time, whenever I'm not consulting.
 
 Find me on Discord as @Heralax !
