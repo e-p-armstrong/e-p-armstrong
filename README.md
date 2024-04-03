@@ -9,4 +9,4 @@ Working @ Leanpub part-time, whenever I'm not consulting.
 
 Find me on Discord as @Heralax !
 
-[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-p-armstrong)](https://github.com/anuraghazra/github-readme-stats)
+
