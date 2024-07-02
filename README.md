@@ -1,11 +1,13 @@
 # I'm Evan Armstrong
 ## Author, Programmer, Machine learning practitioner, AI Consultant
 
-Need help making your API calls cheaper and more consistent? I've been prompt engineering nonstop for a long time now, I can probably help you. DM or email me! evanpeterarmstrong@gmail.com
+Want to build and deploy a custom LLM that understands the knowledge (or style) of your business? Let's have a (non-salesy, no-stakes) chat about your needs! [https://calendly.com/evanpeterarmstrong/discovery-call](https://calendly.com/evanpeterarmstrong/discovery-call). I want to help your AI work succeed. You can also DM or email me! evanpeterarmstrong@gmail.com
 
-I made the data generation tool, Augmentoolkit! It's since received updates to use APIs and the Aphrodite engine. I also made the Augmental and MythoMakise LLMs a while ago. One of them reached #13 on the Ayumi LLM leaderboard at some point!
+I also made the data generation tool, Augmentoolkit! It's since received many updates based on my consulting practice and user feedback. I've made a variety of LLMs such as Llama-3-VerusGPT, the Augmental and MythoMakise RP LLMs, and more.
 
-Working @ Leanpub part-time, whenever I'm not consulting.
+Consulting full time. Also working on this courses+community+calls [group for learning AI as a devleoper](https://www.skool.com/placeholder-ai-group-name-1872)!
+
+
 
 Find me on Discord as @Heralax !
 
