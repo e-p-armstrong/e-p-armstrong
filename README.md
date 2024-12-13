@@ -5,7 +5,7 @@ Want to build and deploy a custom LLM that understands the knowledge (or style) 
 
 I also made the data generation tool, Augmentoolkit! It's since received many updates based on my consulting practice and user feedback. I've made a variety of LLMs such as Llama-3-VerusGPT, the Augmental and MythoMakise RP LLMs, and more.
 
-Consulting full time. Also working on this courses+community+calls [group for learning AI as a devleoper](https://www.skool.com/placeholder-ai-group-name-1872)!
+Consulting full time.
 
 
 
